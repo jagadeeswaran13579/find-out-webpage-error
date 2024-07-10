@@ -1,0 +1,78 @@
+*
+.box{
+    border: 2px solid brown;
+    border-radius: 5px;
+    margin: 20%;
+    padding: 10;
+    text-align: center;
+    
+    
+}
+
+.box h1 a{
+        margin-left: 35px;
+    text-decoration: underline;
+    justify-content: center;
+
+}
+.box h1 a:hover{
+    color: red;
+    justify-content: center;
+}
+table {
+    border: 5% solid black;
+    border-radius: 5px;
+    padding: 10% 20px;
+    width: 60%;
+    height: 70vh;
+    margin-left: 350px;
+}
+.table td{
+    height: 30px;
+    vertical-align: bottom;
+    align-items: center;
+    justify-content: center;
+       
+    }
+.n1{background-color: rgb(32, 135, 133);
+    
+    
+}
+.n2{background-color: red;
+
+}
+.n3{
+    background-color: aqua;
+}
+.n4{
+    background-color: rgb(6, 17, 102);
+}
+.n5{
+    background-color: rgb(3, 36, 7);
+}
+.n6{
+    background-color: rgb(53, 22, 3);
+}
+.n7{
+    background-color: rgb(208, 105, 15);
+}
+.n8{
+    background-color: rgb(6, 17, 102);;
+}
+.n9{
+    background-color: rgb(169, 49, 127);
+}
+.box td{
+    flex-direction: column;
+    border: 5px solid black;
+    position: relative;
+    left:-35%;
+    bottom: 30%; 
+}
+.box table td{
+    bottom: 40px;
+}
+body{
+    background: linear-gradient(90deg,#00d3ff 0%, #ffaf00 80%);
+color: white;
+}
